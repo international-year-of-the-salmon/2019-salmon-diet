@@ -1,0 +1,19 @@
+Protocols for Salmon Diet Data from the 2019 Gulf of Alaska International Year of the Salmon Expedition
+
+TINRO standard methodology used to process diets of Pacific salmon
+(translated from Volkov, 2008)
+
+1)	10 to 25 stomachs of each size class (usually 10 cm interval) are selected randomly from the catch. Fish fork length and weight of each fish is measured.
+2)	Removed stomachs are placed in the cuvette and stomach fullness is assessed in each stomach visually: 0 – stomach is empty, 1 – <30% full, 2 – 30-50% full, 3 – 50-75% and 4 – stomach is full.
+3)	Stomach contents are removed and sorted into large (micronekton) and small (plankton) size fractions. Micronekton is separated into main taxonomic groups (fish, crustaceans, squid, jellyfish, ctenophores…) and placed onto separate jars.
+4)	Within taxonomic groups of the large fraction, individuals identified to the lowest possible level (preferably to species), measured, counted, weighed and degree of digestion (1 – fresh prey, 2 – slightly digested, 3 – half digested, 4 – well digested but taxa identifiable, 5 – highly digested, generally unidentifiable, prey) recorded.
+5)	Content of the small fraction is weighed, and degree of digestion is recorded. The content is then screened under the microscope to assess its taxonomic composition. Each taxon is counted, measured and its proportion is visually estimated. In case the small fraction is too numerous, after weighting it is well mixed, subsampled (1/4 to 1/8) and the content is analysed in the subsample as described above. 
+6)	The gut fullness index (as % of body weight) = sum of all prey item weights*100/sum of all analysed fish weights.  
+Equipment 
+ 
+•	Cuvette
+•	Jars 
+•	Scale 
+ 
+
+
